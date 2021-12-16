@@ -1,0 +1,8 @@
+AD/T3/Exemple1a1/HibernateUtil.java
+ AD.T3.Exemple1a1.HibernateUtil
+Model/Grup.java
+ Model.Grup
+Model/Professor.java
+ Model.Professor
+AD/T3/Exemple1a1/Main.java
+ AD.T3.Exemple1a1.Main

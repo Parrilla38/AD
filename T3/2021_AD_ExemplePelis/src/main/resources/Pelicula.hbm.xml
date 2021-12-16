@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+"-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+    <class name="AD.EXEMPLE.PELIS.Pelicula" table="Pelis">
+        <id name="idPeli" column="idPelis">
+            <generator class="native"></generator>
+        </id>
+        <property name="titol" column="Titol"></property>
+        <property name="any" column="Any"></property>
+        <property name="Director"></property>
+    </class>
+</hibernate-mapping>
